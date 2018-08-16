@@ -1,0 +1,75 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=48933 outsize=86117 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10693 outsize=18705 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=6805 outsize=10653 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1470 outsize=1049 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1478 outsize=16661 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=16661 outsize=31509 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=5777 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=6377 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7265 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=9761 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=6845 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7925 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7829 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=9609 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=8941 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=10909 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7633 outsize=13973 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8197 outsize=14685 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10473 outsize=19253 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=6921 outsize=12757 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9009 outsize=17033 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9301 outsize=17289 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9545 outsize=18321 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
