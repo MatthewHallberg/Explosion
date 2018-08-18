@@ -61,8 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Explosion.cs" />
-    <Compile Include="Assets\PartBehavior.cs" />
+    <Compile Include="Assets\BreakMesh.cs" />
+    <Compile Include="Assets\Explode.cs" />
+    <Compile Include="Assets\ParticleBehavior.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="com.unity.render-pipelines.core.Editor">
