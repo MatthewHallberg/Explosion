@@ -1,49 +1,5 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
-Cmd: translateComputeKernel
-  api=14 insize=2149 outsize=3977 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=7524 outsize=10537 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=9421 outsize=9621 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=1470 outsize=1053 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=1053 outsize=1085 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=1193 outsize=1313 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=6785 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=7385 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=9233 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=9965 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=7445 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=9221 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=11233 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=12113 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=5469 outsize=9609 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=6729 outsize=11769 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=8285 outsize=14921 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=9057 outsize=16957 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=8001 outsize=14993 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=8565 outsize=15781 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=10285 outsize=19305 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=10529 outsize=20341 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -55,19 +11,5 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
 
 Quitting shader compiler process

@@ -1,43 +1,5 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
-Cmd: translateComputeKernel
-  api=14 insize=10793 outsize=17681 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=9421 outsize=9381 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=9705 outsize=16577 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=7481 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=8157 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=7997 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=10421 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=8525 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=9721 ok=1
-Cmd: compileComputeKernel
-  api=14 insize=16784 outsize=9925 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=6165 outsize=11025 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=6033 outsize=10353 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=7301 outsize=12881 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=7545 outsize=13825 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=10041 outsize=18953 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=8697 outsize=16397 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=9261 outsize=17185 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=11269 outsize=21305 ok=1
-Cmd: translateComputeKernel
-  api=14 insize=11513 outsize=22337 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -49,19 +11,5 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
 
 Quitting shader compiler process
